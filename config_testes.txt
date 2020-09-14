@@ -1,0 +1,11 @@
+######################################
+# Rafael.Corsi @ Insper.edu.br       #
+#  Elementos de Sistemas             # 
+#                                    # 
+#  - Para incluir o teste basta      #
+#  descomentar a linha               #
+#                                    #
+######################################
+
+q1.vhd
+q2.vhd
